@@ -1,0 +1,3 @@
+python 25.2
+discord.py 2.6.4
+python-dotenv 1.2.1
